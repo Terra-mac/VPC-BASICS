@@ -1,0 +1,5 @@
+create the resource for VPC
+crreate the resource subnet
+create the resource for public subnet
+create the resource for Internet gateway & attachment to vpc
+create the resource for route table & route table association
